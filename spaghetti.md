@@ -4,3 +4,4 @@
 * Aglio
 * Olio
 * Peperoncono
+* Sale
