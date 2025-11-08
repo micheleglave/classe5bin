@@ -1,6 +1,6 @@
 # Ricetta Pennette alla carbonara
 ## Ingredienti
 * Pennette
-* Pancetta
+* Guanciale
 * Pepe nero
 * Uova
