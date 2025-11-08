@@ -4,3 +4,5 @@
 * Carbonara
 * Pennette al salmone
 file pennette2.md
+* Ricetta "Pennette alla carbonara"
+file pennette.md
